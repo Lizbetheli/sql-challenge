@@ -8,6 +8,7 @@ Created an ERD table from 6 CSVs
 #### Data Engineering
 
 Used ERD table to create sql tables and join on primary keys.
+![ERD table](https://github.com/Lizbetheli/sql-challenge/blob/master/EmployeeSQL/sql%20query.PNG?raw=true)
 
 #### Data Analysis
 
