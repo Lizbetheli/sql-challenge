@@ -3,6 +3,7 @@
 #### Data Modeling
 
 Created an ERD table from 6 CSVs
+![ERD table](https://github.com/Lizbetheli/sql-challenge/blob/master/EmployeeSQL/ERM%20sql-challenge.PNG?raw=true)
 
 #### Data Engineering
 
